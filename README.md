@@ -1,2 +1,3 @@
 # BlueMoon-Project
-Blue Moon a messaging and blogging platform project.
+
+Blue Moon Project a messaging and blogging platform built using MERN stack.
